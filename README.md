@@ -13,10 +13,9 @@ The feature requirements detailed in the project are your primary source of trut
 
 ### Evaluation
 Your final evaluation will be weighted as follows:
-
-Requirements score (75%)
-[Rubric score](https://docs.google.com/spreadsheets/d/1JctZDSVLImKT-sJ7BwhVPrHgZ17pRSuE0FhbLKLxsBs/edit#gid=0) (25%)
-Extra credit (10% max)
+- Requirements score (75%)
+- [Rubric score](https://docs.google.com/spreadsheets/d/1JctZDSVLImKT-sJ7BwhVPrHgZ17pRSuE0FhbLKLxsBs/edit#gid=0) (25%)
+- Extra credit (10% max)
 
 ----
 
@@ -28,24 +27,24 @@ You are the lead engineer for Acme Tutors, an educational services company. Your
 Watch [this video](https://www.youtube.com/watch?v=XERflPFkcjg) to see what the frontend looks like and get an idea of the project.
 
 ### Things we're checking
-Express Routing and Route Methods
-Express Route Parameters
-Express Status Codes
-Sequelize Model Configuration
-Sequelize Hooks
-Sequelize Class Methods
+- Express Routing and Route Methods
+- Express Route Parameters
+- Express Status Codes
+- Sequelize Model Configuration
+- Sequelize Hooks
+- Sequelize Class Methods
 
 ----
 
 ## Resources
 ### Projects
-Wikistacks [Solution Code](https://github.com/FullstackAcademy/Solution.Wikistack2)
-Cody's Cafe [Solution Code](https://github.com/FullstackAcademy/codys-cafe-solution) (Available tomorrow)
+- Wikistacks [Solution Code](https://github.com/FullstackAcademy/Solution.Wikistack2)
+- Cody's Cafe [Solution Code](https://github.com/FullstackAcademy/codys-cafe-solution) (Available tomorrow)
 
 ### Official Sites
-[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[Express](https://expressjs.com/en/4x/api.html)
-[Sequelize](https://sequelize.org/master/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Express](https://expressjs.com/en/4x/api.html)
+- [Sequelize](https://sequelize.org/master/)
 
 ### Remember
 You can use any notes, projects, websites that you want to reference for your project. The only thing you can't do is seek out information specifially for this project. If it feels like cheating, it probably is!
