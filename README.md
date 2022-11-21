@@ -42,7 +42,7 @@ Watch [this video](https://www.youtube.com/watch?v=XERflPFkcjg) to see what the 
 - Cody's Cafe [Solution Code](https://github.com/FullstackAcademy/codys-cafe-solution) (Available tomorrow)
 
 ### Videos
-- [Walkthrough](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl) of Wiazrd News Part 2
+- [Walkthrough](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl) of Wizard News Part 2
 - [Express Router](https://www.youtube.com/watch?v=_6Ug0p7g-9s) Review
 - [Sequelize Hooks](https://www.youtube.com/watch?v=qvh1zkAZj6Q) Review
 
