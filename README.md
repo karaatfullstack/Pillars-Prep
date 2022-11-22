@@ -39,7 +39,7 @@ Watch [this video](https://www.youtube.com/watch?v=XERflPFkcjg) to see what the 
 ## Resources
 ### Projects
 - Wikistacks [Solution Code](https://github.com/FullstackAcademy/Solution.Wikistack2)
-- Cody's Cafe [Solution Code](https://github.com/FullstackAcademy/codys-cafe-solution) (Available tomorrow)
+- Cody's Cafe [Solution Code](https://github.com/FullstackAcademy/codys-cafe-solution) 
 
 ### Videos
 - [Walkthrough](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl) of Wizard News Part 2
